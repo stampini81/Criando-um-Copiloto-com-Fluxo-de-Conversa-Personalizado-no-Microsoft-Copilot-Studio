@@ -47,17 +47,11 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 
 ### 1. Criando o Copilot
 
-- Acesse o Copilot Studio e clique em "+ Novo copiloto".
-- Defina nome, idioma e (opcional) URL do site.
-- Aguarde o provisionamento.
 
 ![Criando o Copilot](imagens/01-criando-copilot.png)
 
 ### 2. Customizando Tópicos
 
-- Vá em "Tópicos" > "+ Novo tópico".
-- Adicione frases de gatilho (ex: "rastrear pedido").
-- Construa o fluxo com perguntas, mensagens e condições.
 
 ![Customizando Tópicos](imagens/02-customizando-topicos.png)
 
