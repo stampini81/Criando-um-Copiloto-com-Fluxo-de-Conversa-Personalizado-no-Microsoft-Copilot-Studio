@@ -51,7 +51,7 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 - Defina nome, idioma e (opcional) URL do site.
 - Aguarde o provisionamento.
 
-![Criando o Copilot](imagens/01-criando-copilot.png)
+![Criando o Copilot](imagens/entities-1.png)
 
 ### 2. Customizando Tópicos
 
@@ -59,14 +59,14 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 - Adicione frases de gatilho (ex: "rastrear pedido").
 - Construa o fluxo com perguntas, mensagens e condições.
 
-![Customizando Tópicos](imagens/02-customizando-topicos.png)
+![Customizando Tópicos](imagens/entities-6.png)
 
 ### 3. Mensagens de Erro (Fallback)
 
 - Edite o tópico "Fallback" na aba "Sistema".
 - Personalize a mensagem de erro e ofereça opções ao usuário.
 
-![Mensagens de Erro (Fallback)](imagens/03-fallback.png)
+![Mensagens de Erro (Fallback)](imagens/entities-8.png)
 
 ### 4. IA Generativa (GenAI)
 
@@ -74,14 +74,14 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 - Adicione fontes de dados (URLs, arquivos).
 - Ajuste o tom e moderação das respostas.
 
-![IA Generativa (GenAI)](imagens/04-ia-generativa.png)
+![IA Generativa (GenAI)](imagens/entities-10.png)
 
 ### 5. Testando o Agente
 
 - Use o painel "Testar seu copiloto".
 - Faça perguntas e avalie as respostas.
 
-![Testando o Agente](imagens/05-testando-agente.png)
+![Testando o Agente](imagens/entities-12.png)
 
 ## Capturas de Tela
 
