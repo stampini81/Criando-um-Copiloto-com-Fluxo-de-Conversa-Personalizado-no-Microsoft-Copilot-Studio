@@ -62,7 +62,7 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 
 ![Configuração de mensagem / fallback](imagens/mensagem.png)
  
-![Teste do fallback em execução](imagens/teste fallback.png)
+![Teste do fallback em execução](imagens/teste_fallback.png)
 
 ### 4. IA Generativa (GenAI)
 
@@ -70,7 +70,7 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 - Adicione fontes de dados (URLs, arquivos) conforme necessário.
 - Ajuste o tom e moderação das respostas.
 
-![Impulsionando a melhoria da conversa](imagens/impulso melhorar conversa.png)
+![Impulsionando a melhoria da conversa](imagens/impulso_melhorar_conversa.png)
 
 ### 5. Testando o Agente
 
@@ -81,9 +81,9 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
  
 ![Teste em execução](imagens/teste.png)
  
-![Teste em andamento](imagens/teste em andamento.png)
+![Teste em andamento](imagens/teste_em_andamento.png)
  
-![Resposta gerada pela IA](imagens/resposta gerada.png)
+![Resposta gerada pela IA](imagens/resposta_gerada.png)
 
 ## Capturas de Tela
 
