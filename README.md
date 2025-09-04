@@ -47,39 +47,59 @@ O Microsoft Copilot Studio permite criar agentes virtuais inteligentes, capazes 
 
 ### 1. Criando o Copilot
 
-
-![Criando o Copilot](imagens/01-criando-copilot.png)
+![Tela de criação do Copilot](imagens/criar.png)
 
 ### 2. Customizando Tópicos
 
+![Visão principal / tópicos](imagens/principal.png)
 
-![Customizando Tópicos](imagens/02-customizando-topicos.png)
+![Lista de tópicos detalhada](imagens/tópicos.png)
 
 ### 3. Mensagens de Erro (Fallback)
 
 - Edite o tópico "Fallback" na aba "Sistema".
 - Personalize a mensagem de erro e ofereça opções ao usuário.
 
-![Mensagens de Erro (Fallback)](imagens/03-fallback.png)
+![Configuração de mensagem / fallback](imagens/mensagem.png)
+ 
+![Teste do fallback em execução](imagens/teste fallback.png)
 
 ### 4. IA Generativa (GenAI)
 
-- Acesse "IA Generativa".
-- Adicione fontes de dados (URLs, arquivos).
+- Acesse a área de IA Generativa / melhoria de respostas.
+- Adicione fontes de dados (URLs, arquivos) conforme necessário.
 - Ajuste o tom e moderação das respostas.
 
-![IA Generativa (GenAI)](imagens/04-ia-generativa.png)
+![Impulsionando a melhoria da conversa](imagens/impulso melhorar conversa.png)
 
 ### 5. Testando o Agente
 
 - Use o painel "Testar seu copiloto".
 - Faça perguntas e avalie as respostas.
 
-![Testando o Agente](imagens/05-testando-agente.png)
+![Teste do copiloto / visão de sistema](imagens/sistema.png)
+ 
+![Teste em execução](imagens/teste.png)
+ 
+![Teste em andamento](imagens/teste em andamento.png)
+ 
+![Resposta gerada pela IA](imagens/resposta gerada.png)
 
 ## Capturas de Tela
 
-As imagens do processo estão na pasta [`imagens/`](imagens/).
+Imagens utilizadas neste guia (todas em `imagens/`):
+
+- `criar.png` – criação inicial do copiloto.
+- `principal.png` – visão principal e tópicos.
+- `tópicos.png` – lista detalhada de tópicos / organização.
+- `mensagem.png` – configuração de mensagens / fallback.
+- `teste fallback.png` – exemplo de execução do fallback durante teste.
+- `impulso melhorar conversa.png` – ajuste de IA generativa / melhoria de conversa.
+- `sistema.png` – visão de teste / sistema.
+- `teste.png` – exemplo de interação durante o teste.
+- `teste em andamento.png` – visualização do fluxo de teste em progresso.
+- `resposta gerada.png` – exemplo de resposta final produzida pela IA.
+- `image.png` – captura genérica adicional (não referenciada diretamente nos passos, disponível para uso futuro).
 
 ## Referências
 
